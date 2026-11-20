@@ -43,7 +43,9 @@ Keterangan: - P = Daya (Watt) - V = Tegangan (Volt) - I = Arus (Ampere)
 
 ## Screenshot Output Program
 
-![Screenshot Output Program](Screenshot%202026-11-20%20190146.png)
+
+![Screenshot Output Program](![Uploading Screenshot 2026-11-20 190146.png…]()
+)
 
 ## Catatan
 
